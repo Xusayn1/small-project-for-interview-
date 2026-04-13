@@ -20,7 +20,6 @@ The main focus of this project is implementing a **custom authentication system 
 
 - Python 3.x
 - Django
-- Django REST Framework (if used)
 - SQLite (default database)
 
 ---
